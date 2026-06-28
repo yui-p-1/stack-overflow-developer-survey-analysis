@@ -1,0 +1,119 @@
+﻿,Catalog,stackoverflow,,,,
+,Schema,bronze,,,,
+,Table,result_2024,,,,
+,,,,,,
+No.,Column Name,Data Type,Not Null,Unique Key,Composite Unique Key,Include
+1,ResponseId,string,Y,-,-,Y
+2,MainBranch,string,-,-,-,Y
+3,Age,string,-,-,-,Y
+4,Employment,string,-,-,-,Y
+5,RemoteWork,string,-,-,-,Y
+6,Check,string,-,-,-,-
+7,CodingActivities,string,-,-,-,-
+8,EdLevel,string,-,-,-,Y
+9,LearnCode,string,-,-,-,Y
+10,LearnCodeOnline,string,-,-,-,-
+11,TechDoc,string,-,-,-,-
+12,YearsCode,string,-,-,-,Y
+13,YearsCodePro,string,-,-,-,-
+14,DevType,string,-,-,-,Y
+15,OrgSize,string,-,-,-,Y
+16,PurchaseInfluence,string,-,-,-,Y
+17,BuyNewTool,string,-,-,-,-
+18,BuildvsBuy,string,-,-,-,-
+19,TechEndorse,string,-,-,-,-
+20,Country,string,-,-,-,Y
+21,Currency,string,-,-,-,Y
+22,CompTotal,string,-,-,-,Y
+23,LanguageHaveWorkedWith,string,-,-,-,Y
+24,LanguageWantToWorkWith,string,-,-,-,Y
+25,LanguageAdmired,string,-,-,-,-
+26,DatabaseHaveWorkedWith,string,-,-,-,Y
+27,DatabaseWantToWorkWith,string,-,-,-,Y
+28,DatabaseAdmired,string,-,-,-,-
+29,PlatformHaveWorkedWith,string,-,-,-,Y
+30,PlatformWantToWorkWith,string,-,-,-,Y
+31,PlatformAdmired,string,-,-,-,-
+32,WebframeHaveWorkedWith,string,-,-,-,Y
+33,WebframeWantToWorkWith,string,-,-,-,Y
+34,WebframeAdmired,string,-,-,-,-
+35,EmbeddedHaveWorkedWith,string,-,-,-,Y
+36,EmbeddedWantToWorkWith,string,-,-,-,Y
+37,EmbeddedAdmired,string,-,-,-,-
+38,MiscTechHaveWorkedWith,string,-,-,-,Y
+39,MiscTechWantToWorkWith,string,-,-,-,Y
+40,MiscTechAdmired,string,-,-,-,-
+41,ToolsTechHaveWorkedWith,string,-,-,-,Y
+42,ToolsTechWantToWorkWith,string,-,-,-,Y
+43,ToolsTechAdmired,string,-,-,-,-
+44,NEWCollabToolsHaveWorkedWith,string,-,-,-,Y
+45,NEWCollabToolsWantToWorkWith,string,-,-,-,Y
+46,NEWCollabToolsAdmired,string,-,-,-,-
+47,OpSysPersonal use,string,-,-,-,Y
+48,OpSysProfessional use,string,-,-,-,Y
+49,OfficeStackAsyncHaveWorkedWith,string,-,-,-,Y
+50,OfficeStackAsyncWantToWorkWith,string,-,-,-,Y
+51,OfficeStackAsyncAdmired,string,-,-,-,-
+52,OfficeStackSyncHaveWorkedWith,string,-,-,-,Y
+53,OfficeStackSyncWantToWorkWith,string,-,-,-,Y
+54,OfficeStackSyncAdmired,string,-,-,-,-
+55,AISearchDevHaveWorkedWith,string,-,-,-,Y
+56,AISearchDevWantToWorkWith,string,-,-,-,Y
+57,AISearchDevAdmired,string,-,-,-,-
+58,NEWSOSites,string,-,-,-,-
+59,SOVisitFreq,string,-,-,-,-
+60,SOAccount,string,-,-,-,-
+61,SOPartFreq,string,-,-,-,-
+62,SOHow,string,-,-,-,-
+63,SOComm,string,-,-,-,-
+64,AISelect,string,-,-,-,Y
+65,AISent,string,-,-,-,Y
+66,AIBen,string,-,-,-,-
+67,AIAcc,string,-,-,-,Y
+68,AIComplex,string,-,-,-,-
+69,AIToolCurrently Using,string,-,-,-,-
+70,AIToolInterested in Using,string,-,-,-,-
+71,AIToolNot interested in Using,string,-,-,-,-
+72,AINextMuch more integrated,string,-,-,-,-
+73,AINextNo change,string,-,-,-,-
+74,AINextMore integrated,string,-,-,-,-
+75,AINextLess integrated,string,-,-,-,-
+76,AINextMuch less integrated,string,-,-,-,-
+77,AIThreat,string,-,-,-,Y
+78,AIEthics,string,-,-,-,-
+79,AIChallenges,string,-,-,-,-
+80,TBranch,string,-,-,-,-
+81,ICorPM,string,-,-,-,Y
+82,WorkExp,string,-,-,-,Y
+83,Knowledge_1,string,-,-,-,-
+84,Knowledge_2,string,-,-,-,-
+85,Knowledge_3,string,-,-,-,-
+86,Knowledge_4,string,-,-,-,-
+87,Knowledge_5,string,-,-,-,-
+88,Knowledge_6,string,-,-,-,-
+89,Knowledge_7,string,-,-,-,-
+90,Knowledge_8,string,-,-,-,-
+91,Knowledge_9,string,-,-,-,-
+92,Frequency_1,string,-,-,-,-
+93,Frequency_2,string,-,-,-,-
+94,Frequency_3,string,-,-,-,-
+95,TimeSearching,string,-,-,-,-
+96,TimeAnswering,string,-,-,-,-
+97,Frustration,string,-,-,-,-
+98,ProfessionalTech,string,-,-,-,-
+99,ProfessionalCloud,string,-,-,-,-
+100,ProfessionalQuestion,string,-,-,-,-
+101,Industry,string,-,-,-,Y
+102,JobSatPoints_1,string,-,-,-,-
+103,JobSatPoints_4,string,-,-,-,-
+104,JobSatPoints_5,string,-,-,-,-
+105,JobSatPoints_6,string,-,-,-,-
+106,JobSatPoints_7,string,-,-,-,-
+107,JobSatPoints_8,string,-,-,-,-
+108,JobSatPoints_9,string,-,-,-,-
+109,JobSatPoints_10,string,-,-,-,-
+110,JobSatPoints_11,string,-,-,-,-
+111,SurveyLength,string,-,-,-,-
+112,SurveyEase,string,-,-,-,-
+113,ConvertedCompYearly,string,-,-,-,Y
+114,JobSat,string,-,-,-,-

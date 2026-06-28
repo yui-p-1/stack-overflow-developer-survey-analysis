@@ -1,0 +1,177 @@
+﻿,Catalog,stackoverflow,,,,
+,Schema,bronze,,,,
+,Table,result_2025,,,,
+,,,,,,
+No.,Column Name,Data Type,Not Null,Unique Key,Composite Unique Key,Include
+1,ResponseId,string,Y,-,-,Y
+2,MainBranch,string,-,-,-,Y
+3,Age,string,-,-,-,Y
+4,EdLevel,string,-,-,-,Y
+5,Employment,string,-,-,-,Y
+6,EmploymentAddl,string,-,-,-,-
+7,WorkExp,string,-,-,-,Y
+8,LearnCodeChoose,string,-,-,-,-
+9,LearnCode,string,-,-,-,Y
+10,LearnCodeAI,string,-,-,-,-
+11,AILearnHow,string,-,-,-,-
+12,YearsCode,string,-,-,-,Y
+13,DevType,string,-,-,-,Y
+14,OrgSize,string,-,-,-,Y
+15,ICorPM,string,-,-,-,Y
+16,RemoteWork,string,-,-,-,Y
+17,PurchaseInfluence,string,-,-,-,Y
+18,TechEndorseIntro,string,-,-,-,-
+19,TechEndorse_1,string,-,-,-,-
+20,TechEndorse_2,string,-,-,-,-
+21,TechEndorse_3,string,-,-,-,-
+22,TechEndorse_4,string,-,-,-,-
+23,TechEndorse_5,string,-,-,-,-
+24,TechEndorse_6,string,-,-,-,-
+25,TechEndorse_7,string,-,-,-,-
+26,TechEndorse_8,string,-,-,-,-
+27,TechEndorse_9,string,-,-,-,-
+28,TechEndorse_13,string,-,-,-,-
+29,TechEndorse_13_TEXT,string,-,-,-,-
+30,TechOppose_1,string,-,-,-,-
+31,TechOppose_2,string,-,-,-,-
+32,TechOppose_3,string,-,-,-,-
+33,TechOppose_5,string,-,-,-,-
+34,TechOppose_7,string,-,-,-,-
+35,TechOppose_9,string,-,-,-,-
+36,TechOppose_11,string,-,-,-,-
+37,TechOppose_13,string,-,-,-,-
+38,TechOppose_16,string,-,-,-,-
+39,TechOppose_15,string,-,-,-,-
+40,TechOppose_15_TEXT,string,-,-,-,-
+41,Industry,string,-,-,-,Y
+42,JobSatPoints_1,string,-,-,-,-
+43,JobSatPoints_2,string,-,-,-,-
+44,JobSatPoints_3,string,-,-,-,-
+45,JobSatPoints_4,string,-,-,-,-
+46,JobSatPoints_5,string,-,-,-,-
+47,JobSatPoints_6,string,-,-,-,-
+48,JobSatPoints_7,string,-,-,-,-
+49,JobSatPoints_8,string,-,-,-,-
+50,JobSatPoints_9,string,-,-,-,-
+51,JobSatPoints_10,string,-,-,-,-
+52,JobSatPoints_11,string,-,-,-,-
+53,JobSatPoints_13,string,-,-,-,-
+54,JobSatPoints_14,string,-,-,-,-
+55,JobSatPoints_15,string,-,-,-,-
+56,JobSatPoints_16,string,-,-,-,-
+57,JobSatPoints_15_TEXT,string,-,-,-,-
+58,AIThreat,string,-,-,-,Y
+59,NewRole,string,-,-,-,Y
+60,ToolCountWork,string,-,-,-,Y
+61,ToolCountPersonal,string,-,-,-,Y
+62,Country,string,-,-,-,Y
+63,Currency,string,-,-,-,Y
+64,CompTotal,string,-,-,-,Y
+65,LanguageChoice,string,-,-,-,-
+66,LanguageHaveWorkedWith,string,-,-,-,Y
+67,LanguageWantToWorkWith,string,-,-,-,Y
+68,LanguageAdmired,string,-,-,-,-
+69,LanguagesHaveEntry,string,-,-,-,-
+70,LanguagesWantEntry,string,-,-,-,-
+71,DatabaseChoice,string,-,-,-,-
+72,DatabaseHaveWorkedWith,string,-,-,-,Y
+73,DatabaseWantToWorkWith,string,-,-,-,Y
+74,DatabaseAdmired,string,-,-,-,-
+75,DatabaseHaveEntry,string,-,-,-,-
+76,DatabaseWantEntry,string,-,-,-,-
+77,PlatformChoice,string,-,-,-,-
+78,PlatformHaveWorkedWith,string,-,-,-,Y
+79,PlatformWantToWorkWith,string,-,-,-,Y
+80,PlatformAdmired,string,-,-,-,-
+81,PlatformHaveEntry,string,-,-,-,-
+82,PlatformWantEntry,string,-,-,-,-
+83,WebframeChoice,string,-,-,-,-
+84,WebframeHaveWorkedWith,string,-,-,-,Y
+85,WebframeWantToWorkWith,string,-,-,-,Y
+86,WebframeAdmired,string,-,-,-,-
+87,WebframeHaveEntry,string,-,-,-,-
+88,WebframeWantEntry,string,-,-,-,-
+89,DevEnvsChoice,string,-,-,-,-
+90,DevEnvsHaveWorkedWith,string,-,-,-,Y
+91,DevEnvsWantToWorkWith,string,-,-,-,Y
+92,DevEnvsAdmired,string,-,-,-,-
+93,DevEnvHaveEntry,string,-,-,-,-
+94,DevEnvWantEntry,string,-,-,-,-
+95,SOTagsHaveWorkedWith,string,-,-,-,Y
+96,SOTagsWantToWorkWith,string,-,-,-,Y
+97,SOTagsAdmired,string,-,-,-,-
+98,SOTagsHaveEntry,string,-,-,-,-
+99,SOTagsWant Entry,string,-,-,-,-
+100,OpSysPersonal use,string,-,-,-,Y
+101,OpSysProfessional use,string,-,-,-,Y
+102,OfficeStackAsyncHaveWorkedWith,string,-,-,-,Y
+103,OfficeStackAsyncWantToWorkWith,string,-,-,-,Y
+104,OfficeStackAsyncAdmired,string,-,-,-,-
+105,OfficeStackHaveEntry,string,-,-,-,-
+106,OfficeStackWantEntry,string,-,-,-,-
+107,CommPlatformHaveWorkedWith,string,-,-,-,Y
+108,CommPlatformWantToWorkWith,string,-,-,-,Y
+109,CommPlatformAdmired,string,-,-,-,-
+110,CommPlatformHaveEntr,string,-,-,-,-
+111,CommPlatformWantEntr,string,-,-,-,-
+112,AIModelsChoice,string,-,-,-,-
+113,AIModelsHaveWorkedWith,string,-,-,-,Y
+114,AIModelsWantToWorkWith,string,-,-,-,Y
+115,AIModelsAdmired,string,-,-,-,-
+116,AIModelsHaveEntry,string,-,-,-,-
+117,AIModelsWantEntry,string,-,-,-,-
+118,SOAccount,string,-,-,-,-
+119,SOVisitFreq,string,-,-,-,-
+120,SODuration,string,-,-,-,-
+121,SOPartFreq,string,-,-,-,-
+122,SO_Dev_Content,string,-,-,-,-
+123,SO_Actions_1,string,-,-,-,-
+124,SO_Actions_16,string,-,-,-,-
+125,SO_Actions_3,string,-,-,-,-
+126,SO_Actions_4,string,-,-,-,-
+127,SO_Actions_5,string,-,-,-,-
+128,SO_Actions_6,string,-,-,-,-
+129,SO_Actions_9,string,-,-,-,-
+130,SO_Actions_7,string,-,-,-,-
+131,SO_Actions_10,string,-,-,-,-
+132,SO_Actions_15,string,-,-,-,-
+133,SO_Actions_15_TEXT,string,-,-,-,-
+134,SOComm,string,-,-,-,-
+135,SOFriction,string,-,-,-,-
+136,AISelect,string,-,-,-,Y
+137,AISent,string,-,-,-,Y
+138,AIAcc,string,-,-,-,Y
+139,AIComplex,string,-,-,-,-
+140,AIToolCurrently partially AI,string,-,-,-,-
+141,AIToolDon't plan to use AI for this task,string,-,-,-,-
+142,AIToolPlan to partially use AI,string,-,-,-,-
+143,AIToolPlan to mostly use AI,string,-,-,-,-
+144,AIToolCurrently mostly AI,string,-,-,-,-
+145,AIFrustration,string,-,-,-,-
+146,AIExplain,string,-,-,-,-
+147,AIAgents,string,-,-,-,-
+148,AIAgentChange,string,-,-,-,-
+149,AIAgent_Uses,string,-,-,-,-
+150,AgentUsesGeneral,string,-,-,-,-
+151,AIAgentImpactSomewhat agree,string,-,-,-,-
+152,AIAgentImpactNeutral,string,-,-,-,-
+153,AIAgentImpactSomewhat disagree,string,-,-,-,-
+154,AIAgentImpactStrongly agree,string,-,-,-,-
+155,AIAgentImpactStrongly disagree,string,-,-,-,-
+156,AIAgentChallengesNeutral,string,-,-,-,-
+157,AIAgentChallengesSomewhat disagree,string,-,-,-,-
+158,AIAgentChallengesStrongly agree,string,-,-,-,-
+159,AIAgentChallengesSomewhat agree,string,-,-,-,-
+160,AIAgentChallengesStrongly disagree,string,-,-,-,-
+161,AIAgentKnowledge,string,-,-,-,-
+162,AIAgentKnowWrite,string,-,-,-,-
+163,AIAgentOrchestration,string,-,-,-,-
+164,AIAgentOrchWrite,string,-,-,-,-
+165,AIAgentObserveSecure,string,-,-,-,-
+166,AIAgentObsWrite,string,-,-,-,-
+167,AIAgentExternal,string,-,-,-,-
+168,AIAgentExtWrite,string,-,-,-,-
+169,AIHuman,string,-,-,-,-
+170,AIOpen,string,-,-,-,-
+171,ConvertedCompYearly,string,-,-,-,Y
+172,JobSat,string,-,-,-,-

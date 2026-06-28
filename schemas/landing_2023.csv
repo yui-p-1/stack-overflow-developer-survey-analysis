@@ -1,0 +1,89 @@
+﻿,Catalog,stackoverflow,,,,
+,Schema,bronze,,,,
+,Table,result_2023,,,,
+,,,,,,
+No.,Column Name,Data Type,Not Null,Unique Key,Composite Unique Key,Include
+1,ResponseId,string,Y,-,-,Y
+2,Q120,string,-,-,-,-
+3,MainBranch,string,-,-,-,Y
+4,Age,string,-,-,-,Y
+5,Employment,string,-,-,-,Y
+6,RemoteWork,string,-,-,-,Y
+7,CodingActivities,string,-,-,-,-
+8,EdLevel,string,-,-,-,Y
+9,LearnCode,string,-,-,-,Y
+10,LearnCodeOnline,string,-,-,-,-
+11,LearnCodeCoursesCert,string,-,-,-,-
+12,YearsCode,string,-,-,-,Y
+13,YearsCodePro,string,-,-,-,-
+14,DevType,string,-,-,-,Y
+15,OrgSize,string,-,-,-,Y
+16,PurchaseInfluence,string,-,-,-,Y
+17,TechList,string,-,-,-,-
+18,BuyNewTool,string,-,-,-,-
+19,Country,string,-,-,-,Y
+20,Currency,string,-,-,-,Y
+21,CompTotal,string,-,-,-,Y
+22,LanguageHaveWorkedWith,string,-,-,-,Y
+23,LanguageWantToWorkWith,string,-,-,-,Y
+24,DatabaseHaveWorkedWith,string,-,-,-,Y
+25,DatabaseWantToWorkWith,string,-,-,-,Y
+26,PlatformHaveWorkedWith,string,-,-,-,Y
+27,PlatformWantToWorkWith,string,-,-,-,Y
+28,WebframeHaveWorkedWith,string,-,-,-,Y
+29,WebframeWantToWorkWith,string,-,-,-,Y
+30,MiscTechHaveWorkedWith,string,-,-,-,Y
+31,MiscTechWantToWorkWith,string,-,-,-,Y
+32,ToolsTechHaveWorkedWith,string,-,-,-,Y
+33,ToolsTechWantToWorkWith,string,-,-,-,Y
+34,NEWCollabToolsHaveWorkedWith,string,-,-,-,Y
+35,NEWCollabToolsWantToWorkWith,string,-,-,-,Y
+36,OpSysPersonal use,string,-,-,-,Y
+37,OpSysProfessional use,string,-,-,-,Y
+38,OfficeStackAsyncHaveWorkedWith,string,-,-,-,Y
+39,OfficeStackAsyncWantToWorkWith,string,-,-,-,Y
+40,OfficeStackSyncHaveWorkedWith,string,-,-,-,Y
+41,OfficeStackSyncWantToWorkWith,string,-,-,-,Y
+42,AISearchHaveWorkedWith,string,-,-,-,Y
+43,AISearchWantToWorkWith,string,-,-,-,Y
+44,AIDevHaveWorkedWith,string,-,-,-,Y
+45,AIDevWantToWorkWith,string,-,-,-,Y
+46,NEWSOSites,string,-,-,-,-
+47,SOVisitFreq,string,-,-,-,-
+48,SOAccount,string,-,-,-,-
+49,SOPartFreq,string,-,-,-,-
+50,SOComm,string,-,-,-,-
+51,SOAI,string,-,-,-,-
+52,AISelect,string,-,-,-,Y
+53,AISent,string,-,-,-,Y
+54,AIAcc,string,-,-,-,Y
+55,AIBen,string,-,-,-,-
+56,AIToolInterested in Using,string,-,-,-,-
+57,AIToolCurrently Using,string,-,-,-,-
+58,AIToolNot interested in Using,string,-,-,-,-
+59,AINextVery different,string,-,-,-,-
+60,AINextNeither different nor similar,string,-,-,-,-
+61,AINextSomewhat similar,string,-,-,-,-
+62,AINextVery similar,string,-,-,-,-
+63,AINextSomewhat different,string,-,-,-,-
+64,TBranch,string,-,-,-,-
+65,ICorPM,string,-,-,-,Y
+66,WorkExp,string,-,-,-,Y
+67,Knowledge_1,string,-,-,-,-
+68,Knowledge_2,string,-,-,-,-
+69,Knowledge_3,string,-,-,-,-
+70,Knowledge_4,string,-,-,-,-
+71,Knowledge_5,string,-,-,-,-
+72,Knowledge_6,string,-,-,-,-
+73,Knowledge_7,string,-,-,-,-
+74,Knowledge_8,string,-,-,-,-
+75,Frequency_1,string,-,-,-,-
+76,Frequency_2,string,-,-,-,-
+77,Frequency_3,string,-,-,-,-
+78,TimeSearching,string,-,-,-,-
+79,TimeAnswering,string,-,-,-,-
+80,ProfessionalTech,string,-,-,-,-
+81,Industry,string,-,-,-,Y
+82,SurveyLength,string,-,-,-,-
+83,SurveyEase,string,-,-,-,-
+84,ConvertedCompYearly,string,-,-,-,Y
